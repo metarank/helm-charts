@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  metarank:
+  - apiVersion: v2
+    appVersion: 0.5.5
+    created: "2022-10-04T15:22:01.128716241+02:00"
+    description: A Helm chart for Metarank
+    digest: 09612b0fc006f4b3e5412913aee02202dc58ab42bb6cc1812bd168c5b592fa58
+    name: metarank
+    type: application
+    urls:
+    - https://metarank.github.io/helm-charts/metarank-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-10-04T15:22:01.127304614+02:00"
