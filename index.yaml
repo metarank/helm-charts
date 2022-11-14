@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   metarank:
   - apiVersion: v2
+    appVersion: 0.5.10
+    created: "2022-11-14T12:11:16.401259725+01:00"
+    description: A Helm chart for Metarank
+    digest: 44c0c34ac9ac18a7d6bb78d9c1410a4a9ed99927503203c842994ae2495172f2
+    name: metarank
+    type: application
+    urls:
+    - https://metarank.github.io/helm-charts/metarank-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v2
     appVersion: 0.5.5
-    created: "2022-10-05T14:23:06.82968117+02:00"
+    created: "2022-11-14T12:11:16.400807667+01:00"
     description: A Helm chart for Metarank
     digest: 2cc7ba1dcec86be2e9d3285a14b984f259f5a4a066ced8994057456ab2ec022f
     name: metarank
@@ -13,7 +23,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.5.5
-    created: "2022-10-05T14:23:06.829106331+02:00"
+    created: "2022-11-14T12:11:16.400178767+01:00"
     description: A Helm chart for Metarank
     digest: b9280ee7ae07eb484c91bbeee31a3aff62a789e09192d2b65c94207bb693c992
     name: metarank
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://metarank.github.io/helm-charts/metarank-0.0.1.tgz
     version: 0.0.1
-generated: "2022-10-05T14:23:06.82846021+02:00"
+generated: "2022-11-14T12:11:16.39947114+01:00"
